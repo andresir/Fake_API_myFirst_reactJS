@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Baron",
+      "password": "ngesot",
+      "email": "bunting@ngesot.com",
+      "phone": "08918191819"
+    },
+    {
+      "id": 2,
+      "username": "Bernacle",
+      "password": "kesurupan",
+      "email": "kesurupan@bernacle.com",
+      "phone": "0332323219"
+    },
+    {
+      "username": "ajin",
+      "email": "ajinbramantio@gmail.com",
+      "password": "123456",
+      "phone": "1212112",
+      "id": 3
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "Popok Ngesot",
+      "merk": "Bronson",
+      "description": "Popok Oke",
+      "harga": 50000,
+      "img": "https://indonesia.forwiki.co/id/1050/products/original/c619b8bfd83ff18c74bbb57e4506cd2e.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Popok Abis",
+      "merk": "Bodro",
+      "description": "Popok Abis Oke Banget",
+      "harga": 75000,
+      "img": "https://indonesia.forwiki.co/details/1050/images/95/MTA-2368373/mamypoko_mamypoko-xtra-kering-l8--x12_full02.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Popok Basah",
+      "merk": "Basah",
+      "description": "Popok Basah Dijalanan Sangat Oke",
+      "harga": 75000,
+      "img": "https://www.lebih.co/details/1050/images/938/sweety_sweety-popok-bayi-silver-pants---m-60_full02.jpg"
+    }
+  ]
+}
